@@ -23,7 +23,7 @@ export default function Login() {
 
             </div>
 
-            <button> <Link to = '/home'> Login </Link>   </button>
+            <button> <Link to='/home'> Login </Link>   </button>
 
         </div>
     )
